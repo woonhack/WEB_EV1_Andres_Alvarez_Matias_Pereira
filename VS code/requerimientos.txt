@@ -1,0 +1,11 @@
+Pizzeria don cangrejo
+- menú de navegacion con logo
+- parrafo con propuesta de negocio con foto, incluye telefono destacado
+- carrusel con 3 propmociones de pizzas
+- deben haber 3 categorias (premium, vegetarianas y sabores del mundo)
+- cada ficha de cada categoria incluye:
+    + foto de pizza(optimizada para web)
+    + listado de ingredientes no enumerado
+    + valor nutricional de la pizza
+    + precio(texto destacado)
+- Pie de imagen con datos de contacto, incluyendo telefono
